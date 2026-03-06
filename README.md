@@ -13,20 +13,20 @@ class ShubhamPatil:
         self.current_role = "📚 Currently pursuing Master's | Open to Werkstudent / Internship (20 hrs/week)"
 
         self.industries_experience = [
-            "🧑‍🤝‍🧑 Customer Analytics",
-            "🚗 Automotive" ,
-            "📈 💰 Finance",
-            "🔬 Research",
-        ]
+                                        "🧑‍🤝‍🧑 Customer Analytics",
+                                        "🚗 Automotive" ,
+                                        "📈 💰 Finance",
+                                        "🔬 Research",
+                                     ]
 
-        self.technical_passions = [
-            "🤖 Machine Learning",
-            "🛠️  ETL & Data Pipelines",
-            "🗄️  Databases & Data Modeling",
-            "☁️  Cloud (AWS)",
-            "📊 Business Intelligence & Dashboards",
-            "🔬 Computational Science",
-        ]
+        self.technical_passions =    [
+                                        "🤖 Machine Learning",
+                                        "🛠️  ETL & Data Pipelines",
+                                        "🗄️  Databases & Data Modeling",
+                                        "☁️  Cloud (AWS)",
+                                        "📊 Business Intelligence & Dashboards",
+                                        "🔬 Computational Science",
+                                     ]
 ```
 
 ---
