@@ -102,4 +102,4 @@ class AboutMe:
 
 ---
 
-*📍 Freiberg, Germany &nbsp;|&nbsp; 🕐 Available 20 hrs/week for Werkstudent / Internship*
+*📍 Freiberg, Germany &nbsp;|&nbsp; 🕐 Available 20 hrs/week for Werkstudent & 40 hrs/ week for Internship*
