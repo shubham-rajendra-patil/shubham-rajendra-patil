@@ -1,7 +1,7 @@
 # Hi, I'm Shubham Rajendra Patil 👋
 
 ```python
-class ShubhamPatil:
+class AboutMe:
     def __init__(self):
 
         self.professional_title = "📊 Analytics & Data Professional | Building toward Data Science & Engineering"
